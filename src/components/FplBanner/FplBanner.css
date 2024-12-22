@@ -1,0 +1,22 @@
+.banner-class {
+    position: relative;
+    width: 100%;
+    height: 300px;
+    background-image: url(../../assets/pattern-2-m.fbe26d0a.png), 
+                      url(../../assets/pattern-2-m.fbe26d0a.png), 
+                      linear-gradient(to right, rgb(2, 239, 255), rgb(98, 123, 255));
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-align: center;
+    margin: 0%
+}
+
+.header-text {
+    color:rgb(55, 0, 60);
+    font-size: 1.4rem;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
